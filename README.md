@@ -36,7 +36,7 @@ and performance indicators.
 ### [Quantium Sales Project](https://github.com/MoedBartels/Quantium-Sales-Project)
 - This report provides an analysis of customer purchase behavior of a fictional chips company as well as transaction behaviour. Python was used for this project.
 
-Follow this [_NovyPro linnk](https://www.novypro.com/profile_projects/moedbartels) to view more Power Bi projects. 
+Follow this [_NovyPro link](https://www.novypro.com/profile_projects/moedbartels) to view more Power Bi projects. 
 
 
 
