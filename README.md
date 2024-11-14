@@ -6,6 +6,11 @@ Microsoft Excel, Python, SQL, Microsoft Power BI , Amplitude.
 Bachelor of Arts, Economics and Statistics  ;    UNIVERSITY OF GHANA, LEGON, 2016 
 
 
+## Certifications
+- [Google Data Analyst Certification](https://www.credly.com/badges/29d3aa6f-918b-42a9-9e52-5e22fb55422e/public_url), Google, April 2023.
+- -Data Science, Ghana Tech Lab, September 2022.
+
+
 ## Work Experience
 ####  Data Analyst, _ONLY QUALITY DATA_ (February 2024-present (part-time))
 - Offer data and business analytics training, mentorship, and consultation services. 
@@ -29,7 +34,9 @@ The dashboard should serve as a decision-support tool highlighting key metrics
 and performance indicators.
 
 ### [Quantium Sales Project](https://github.com/MoedBartels/Quantium-Sales-Project)
-- This report provides an analysis of customer purchase behavior of a fictional chips company as well as transaction behaviour. Python was used for this project. 
+- This report provides an analysis of customer purchase behavior of a fictional chips company as well as transaction behaviour. Python was used for this project.
+
+Follow this [_NovyPro linnk](https://www.novypro.com/profile_projects/moedbartels) to view further Power Bi projects. 
 
 
 
