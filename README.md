@@ -7,15 +7,31 @@ Bachelor of Arts, Economics and Statistics  ;    UNIVERSITY OF GHANA, LEGON, 201
 
 
 ## Work Experience
-####  DATA ANALYST, ONLY QUALITY DATA (February 2024-present (part-time))
--Offer data and business analytics training, mentorship, and consultation services. 
+####  Data Analyst, _ONLY QUALITY DATA_ (February 2024-present (part-time))
+- Offer data and business analytics training, mentorship, and consultation services. 
 
 
-#### DATA ANALYST, BETHNIEL GROUP ( September 2022-present)
--Part of the data analytics team responsible for designing a database for Bethniel Finance community members and events.
--Provide timely analysis on Bethniel finance communities and events.
--Undertake regular product analytics on the Bethniel Finance app.
--Provide marketing analytics insights.
+#### Data Analyst, _BETHNIEL GROUP_ ( September 2022-present)
+- Part of the data analytics team responsible for designing a database for Bethniel Finance community members and events.
+- Provide timely analysis on Bethniel finance communities and events.
+- Undertake regular product analytics on the Bethniel Finance app.
+- Provide marketing analytics insights.
+
+## Projects
+### [ExpressMart Sales Performance Analysis Project](https://github.com/MoedBartels/ExpressMart_Data_Project)
+- Leveraging Python, this project focuses on providing a comprehensive analysis of sales data across multiple
+ dimensions, including time of day, month, product performance, and regional sales.
+
+### [Altera Hr Analytics Dashboard](https://github.com/MoedBartels/Altera-HR-Project)
+- Project Objective: Develop a Simple HR Analytics Dashboard that provides 
+insightful reporting on the workforce of, Altera, a fictional company in Ghana. 
+The dashboard should serve as a decision-support tool highlighting key metrics 
+and performance indicators.
+
+### [Quantium Sales Project](https://github.com/MoedBartels/Quantium-Sales-Project)
+- This report provides an analysis of customer purchase behavior of a fictional chips company as well as transaction behaviour. Python was used for this project. 
+
+
 
 
 
