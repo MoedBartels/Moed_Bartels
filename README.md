@@ -33,6 +33,9 @@ Bachelor of Arts, Economics and Statistics  ;    UNIVERSITY OF GHANA, LEGON, 201
 - Leveraging Python, this project focuses on providing a comprehensive analysis of sales data across multiple
  dimensions, including time of day, month, product performance, and regional sales.
 
+### [Financial Consumer Complaints Analysis Project](https://github.com/MoedBartels/Financial-Consumer-Complaints-analysis)
+- Project Objective: Develop a Simple Dashboard that provides insightful reporting on Consumer complaints on financial products & services for Bank of America from 2017 to 2023. The dashboard should serve as a decision-support tool highlighting key metrics.
+
 ### [Altera Hr Analytics Dashboard](https://github.com/MoedBartels/Altera-HR-Project)
 - Project Objective: Develop a Simple HR Analytics Dashboard that provides 
 insightful reporting on the workforce of, Altera, a fictional company in Ghana. 
