@@ -15,17 +15,17 @@ Bachelor of Arts, Economics and Statistics  ;    UNIVERSITY OF GHANA, LEGON, 201
 ####  Data Analyst, _ONLY QUALITY DATA_ (February 2024-present (part-time))
 - Offer data and business analytics training, mentorship, and consultation services.
 - Conducted 45+ interactive training sessions and webinars (2 hours each) on tools such as Python, Power BI, and Excel, as well as data storytelling and report writing.
--Designed and facilitated practical, beginner-friendly lessons that helped clients build strong foundations in data analysis and visualization.
--Provided one-on-one mentorship and feedback to support learners in real-world projects and job readiness.
+- Designed and facilitated practical, beginner-friendly lessons that helped clients build strong foundations in data analysis and visualization.
+- Provided one-on-one mentorship and feedback to support learners in real-world projects and job readiness.
 
 
 
 
 #### Data Analyst, _BETHNIEL GROUP_ ( September 2022-present)
 - Designed and implemented a comprehensive database for Bethniel Finance community members and events, improving data accessibility and integrity.
--Conducted in-depth analysis of Bethniel finance communities and events, generating timely reports that informed strategic decision-making.
--Performed regular product analytics on the Bethniel Finance app, identifying user behavior patterns and contributing to feature enhancements.
--Delivered key marketing analytics insights, optimizing campaign performance and informing targeted outreach strategies
+- Conducted in-depth analysis of Bethniel finance communities and events, generating timely reports that informed strategic decision-making.
+- Performed regular product analytics on the Bethniel Finance app, identifying user behavior patterns and contributing to feature enhancements.
+- Delivered key marketing analytics insights, optimizing campaign performance and informing targeted outreach strategies
 
 
 ## Projects
